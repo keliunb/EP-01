@@ -10,18 +10,18 @@ Tecnologia utilizada:
 
 Instalação e execução do Mezzanine:
 
-# Install from PyPI
-$ pip install mezzanine
+* Install from PyPI
+pip install mezzanine
 
-# Create a project
-$ mezzanine-project myproject
-$ cd myproject
+* Create a project
+mezzanine-project myproject
+cd myproject
 
-# Create a database
-$ python manage.py createdb
+* Create a database
+python manage.py createdb
 
-# Run the web server
-$ python manage.py runserver
+* Run the web server
+python manage.py runserver
 
 Mais detalhes sobre o projeto serão incluídos na wiki.
 
